@@ -14,7 +14,7 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/spf13/cobra v1.1.1
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.7.0
+	github.com/spf13/viper v1.9.0
 	github.com/stretchr/testify v1.7.0
 	github.com/uber/jaeger-client-go v2.20.1+incompatible
 	go.opentelemetry.io/otel v0.20.0
@@ -26,8 +26,8 @@ require (
 	go.opentelemetry.io/otel/sdk/export/metric v0.20.0
 	go.opentelemetry.io/otel/sdk/metric v0.20.0
 	go.opentelemetry.io/otel/trace v0.20.0
-	k8s.io/api v0.21.3
-	k8s.io/apimachinery v0.21.3
+	k8s.io/api v0.22.4
+	k8s.io/apimachinery v0.22.4
 	k8s.io/client-go v12.0.0+incompatible
 	sigs.k8s.io/controller-runtime v0.9.6
 )
